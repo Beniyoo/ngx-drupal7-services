@@ -10,7 +10,7 @@ import { ViewOptions } from '../models/view';
  */
 @Injectable()
 export class ViewService extends MainService {
-  entityType = 'views';
+  // entityType = 'views';
 
   /**
    * impelemnt retrive resource
